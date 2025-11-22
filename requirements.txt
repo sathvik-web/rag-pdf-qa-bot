@@ -1,0 +1,10 @@
+ibm-watsonx-ai
+langchain
+langchain-ibm
+langchain-community
+chromadb
+pypdf
+gradio
+huggingface_hub
+pydantic==2.7.4
+sentence_transformers
