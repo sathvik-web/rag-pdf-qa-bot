@@ -5,6 +5,20 @@ Instead of returning generic answers, the bot extracts relevant context from the
 
 ---
 
+### Assessment Project Information
+This repository contains the **assessment project and solution** for the course:  
+**Project: Generative AI Applications with RAG and LangChain – IBM**  
+It includes the required implementation and question answers.
+
+---
+
+## Application Preview
+
+<img width="1818" height="911" alt="image" src="https://github.com/user-attachments/assets/b677a4da-e186-4fa2-8179-cc2cf51d0d7c" />
+
+
+---
+
 ## Tech Stack
 | Component | Technology |
 |-----------|------------|
@@ -15,12 +29,11 @@ Instead of returning generic answers, the bot extracts relevant context from the
 | UI | Gradio Web App |
 | File Loader | PyPDFLoader |
 | Language | Python |
+
 ---
 
 ## Architecture Workflow
 PDF → Load & Split → Create Embeddings → Store in ChromaDB → Retrieve Similar Chunks → LLM generates final answer
-
-
 
 ---
 
@@ -32,6 +45,7 @@ PDF → Load & Split → Create Embeddings → Store in ChromaDB → Retrieve Si
 - Clean modular Python implementation
 
 ---
+
 ### Clone Repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/rag-pdf-qa-bot.git
