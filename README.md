@@ -8,7 +8,6 @@ Instead of returning generic answers, the bot extracts relevant context from the
 ### Assessment Project Information
 This repository contains the **assessment project and solution** for the course:  
 **Project: Generative AI Applications with RAG and LangChain – IBM**  
-It includes the required implementation and question answers.
 
 ---
 
@@ -48,5 +47,5 @@ PDF → Load & Split → Create Embeddings → Store in ChromaDB → Retrieve Si
 
 ### Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-pdf-qa-bot.git
+git clone https://github.com/sathvik-web/rag-pdf-qa-bot.git
 cd rag-pdf-qa-bot
